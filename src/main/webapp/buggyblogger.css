@@ -1,0 +1,49 @@
+#addForm, #addResult, #findForm, #findResult, #loginForm {
+	display: none;
+}
+
+div {
+    color: white;
+    font-family: "Tahoma";
+    text-align: "center";
+}
+
+h1 {
+    color: white;
+    font-family: "Arial";
+    font-style: italic;
+    font-size: 32px;
+    align-content: center;
+    /* Top Right Bottom Left */
+    margin: 50px 0px 10px 500px;
+}
+
+h2 {
+    color: #59ffcd;
+    font-family: "Verdana";
+    font-style: italic;
+    font-size: 16px;
+    align-items: center;
+    
+}
+
+a {
+    color: white;
+    font-family: "Arial";
+}
+
+body {
+    /*background-color: lightblue;*/
+    background-image: url("background.jpg")
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

@@ -1,0 +1,14 @@
+#addUserForm, #addUserResult, #addBlogForm , #addBlogResult, #loginForm, #HomePage, #LoginAndSignUp, #loginAlert, #SignUpSuccess, #SignUpFailure{
+	display: none;
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 1;
+	background-image: url("background.jpg");
+}
+
+body {
+    /* background-color: lightblue;*/
+    background-color: #d3d0cc
+}
